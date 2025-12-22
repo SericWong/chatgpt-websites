@@ -32,9 +32,9 @@
 | 镜像站点 | 支持模型 | 免费体验 | 注册方式 | 访问稳定性 | 特色亮点 |
 |----------|----------|------------------------|----------|------------|----------|
 | [chat.aibox365.cn](https://chat.aimirror123.com) | GPT-4o, GPT-4.1, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 支持GPT-4o，内置MJ绘图，适合编程、创作和日常对话 |
-| [aiwrite](https://www.chatgpt-mirrors.com/chatgpt) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, MidJourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版GPT-o1体验，集成AI助手和丰富插件 |
-| [mygpt.bid](https://mygpt.bid/) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度，部分功能免费 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合轻量级用户 |
-| [allyfy.chat](https://www.allyfy.chat/) | GPT-4, GPT-o1 | 每日5次免费体验 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合初次尝试，含少量广告 |
+| [aiwrite](https://chat.write360.cn/) | GPT-4, GPT-4o, GPT-4.1, GPT-o1, o3, o4, AIPPT, MidJourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 原版GPT-o1体验，集成AI助手和丰富插件 |
+| [GPT 镜像](https://www.chatgpt-mirrors.com/chatgpt) | GPT-4, GPT-4o, o1, o3 | 注册赠送免费额度，部分功能免费 | 邮箱注册 | ⭐⭐⭐⭐ | 界面简洁，响应迅速，适合轻量级用户 |
+| [gemini 镜像](https://www.gemini-tool.com/) | GPT-4, GPT-o1 | 每日5次免费体验 | 邮箱注册 | ⭐⭐⭐ | 轻量体验，适合初次尝试，含少量广告 |
 
 ---
 
